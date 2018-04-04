@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>Khalid Kabeers Interactive Webpage </title>
+
+      <link href="css/style.css" rel="stylesheet">
+
+</head>
+<body>
+<div id="particle-canvas" style="position: relative;"><div style='background: url("https://raw.githubusercontent.com/JulianLaval/canvas-particle-network/master/img/demo-bg.jpg") no-repeat center / cover; left: 0px; top: 0px; right: 0px; bottom: 0px; position: absolute; z-index: 1;'></div><canvas width="1920" height="335" style="position: relative; z-index: 20;"></canvas></div>
+
+  <script src="https://rawgit.com/JulianLaval/canvas-particle-network/master/particle-network.min.js"></script>
+
+    <script src="js/index.js"></script>
+
+
+</body></html>
